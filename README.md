@@ -5,7 +5,7 @@
 
 Предложение: Приготовить суп.
 
-![none] (https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/%D0%9B%D1%801.JPG)
+![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/%D0%9B%D1%801.JPG)
 
 Рисунок прямо здесь (выгруженный из РАМУС, выгруженный или созданный "на лету" в PLANTUML)
 
