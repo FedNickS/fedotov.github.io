@@ -1,6 +1,5 @@
 # Отчет о лабораторных работах
-# студент группы [ИДБ-17-07]
-(https://github.com/stankin/design-part-1/wiki/list-id..) Федотов Н.А.
+# студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-id..) Федотов Н.А.
 
 ## Лабораторная 1
 
