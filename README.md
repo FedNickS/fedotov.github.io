@@ -20,6 +20,9 @@
 
 [код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/UML2.txt)
 ## Лабораторная 2
+IDEF0
+![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%BB%D1%802.JPG)
+
 
 ## Лабораторная 3
 
