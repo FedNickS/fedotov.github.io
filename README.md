@@ -31,6 +31,7 @@
 Блок "Переработка сырья"
 ![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%9B%D0%A02_3.JPG)
 ## Диаграмма прецедентов
+![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%9B%D1%802_4.JPG)
 
 
 
