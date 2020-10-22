@@ -46,6 +46,11 @@
   ![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/%D0%9B%D0%A03.JPG)
   
   Руководитель отправляет заказ в виде сырья,а повар в свою очередь производит переработку сырья.
+  
+  ## ER-диаграмма:
+  ![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/%D0%9B%D0%A03_1.JPG)
+  
+  [код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/ER.txt)
 
 # Лабораторная 4
 
