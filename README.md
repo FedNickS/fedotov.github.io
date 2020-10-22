@@ -44,6 +44,7 @@
 ## Диаграмма последовательности:
   В качестве основы использовался DFD-блок "Переработка сырья" из лабораторной работы 2
   ![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/%D0%9B%D0%A03.JPG)
+  [код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/UML3.txt)
   
   Руководитель отправляет заказ в виде сырья,а повар в свою очередь производит переработку сырья.
   
