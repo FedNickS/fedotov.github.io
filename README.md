@@ -1,61 +1,12 @@
-# Отчет о лабораторных работах
-# студент группы [ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-id..) Федотов Н.А.
+# Студент группы ![ИДБ-17-07](https://github.com/stankin/design-part-1/wiki/list-idb-17-07) Федотов Н.А.
 
-# Лабораторная 1
+## Отчёт по лабораторным работам [1 - 3](https://github.com/FedNickS/fedotov.github.io/wiki/%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B-%E2%84%961-3)
 
-Предложение: Приготовить суп.
+## Отчёт по лабораторным работам [4 - 6]()
 
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/%D0%9B%D1%801.JPG)
+## Домашнее задание по семинарам [1](https://github.com/stankin/design-part-1/wiki/sem1#%D0%91%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%B8%D0%BD-%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%A4%D0%B5%D0%B4%D0%BE%D1%82%D0%BE%D0%B2-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-%D0%90%D0%BD%D1%82%D0%BE%D0%BD) и [2](https://github.com/stankin/design-part-1/wiki/sem2#%D0%91%D0%BE%D1%80%D0%BE%D0%B7%D0%B4%D0%B8%D0%BD-%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0-%D0%A0%D1%83%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-%D0%90%D0%BD%D1%82%D0%BE%D0%BD-%D0%A4%D0%B5%D0%B4%D0%BE%D1%82%D0%BE%D0%B2-%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9)
 
-Предложение: Повар Приготавливает Суп по Кулинарной книге из Овощей и мяса с помощью Оборудования.
+## Домашнее задание по семинарам [3 - 4]()
 
-## Class diagram
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.JPG)
+## Рефераты: [разработанный]() и [проверенный]()
 
-[код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/UML.txt)
-
-## Usecase diagram
-
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG)
-
-[код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%201/UML2.txt)
-# Лабораторная 2
-## IDEF0
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%BB%D1%802.JPG)
-
-## PDC
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%9B%D1%802_1.JPG)
-
-## DFD
-
-Блок "Переработка сырья"
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%9B%D0%A02_3.JPG)
-
- [файл.rsf](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%9B%D0%A02.rsf)
-## Диаграмма прецедентов
-![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/%D0%9B%D1%802_4.JPG)
-
-[код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%202/UML.txt)
-
-
-
-
-# Лабораторная 3
-## Диаграмма последовательности:
-  В качестве основы использовался DFD-блок "Переработка сырья" из лабораторной работы 2
-  ![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/%D0%9B%D0%A03.JPG)
-  
-  [код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/UML3.txt)
-  
-  Руководитель отправляет заказ в виде сырья,а повар в свою очередь производит переработку сырья.
-  
-  ## ER-диаграмма:
-  ![none](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/%D0%9B%D0%A03_1.JPG)
-  
-  [код](https://github.com/FedNickS/fedotov.github.io/blob/master/%D0%9B%D0%B0%D0%B1%203/ER.txt)
-
-# Лабораторная 4
-
-# Лабораторная 5
-
-# Лабораторная 6
