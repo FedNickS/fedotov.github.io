@@ -1,0 +1,111 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+hide circle
+hide methods
+
+class Parking {
+   id : number
+   dateIn : datetime
+   dateOut : datetime
+   id_auto : number
+   coast : real
+   paid : real
+   prcent : number
+   debt : number
+   left : bit
+   payment : bit
+   sale : number
+   id_employee : number
+   id_place : number
+   
+}
+class Role {
+   id_role : number
+   role : varchar
+
+  
+}
+class Employee {
+   id_employee : number
+   employee_name : varchar
+   e_login : varchar
+   e_pass : varchar
+   id_position : varchar
+   work : bit
+   id_role : number
+   phone : varchar
+   adress : varchar
+}
+class Position {
+   id_position : number
+   position : varchar
+}
+class OwnerAuto {
+   id_ownerauto : number
+   fio : varchar
+   number_doc : varchar
+   phone : varchar
+   o_login : varchar
+   o_password : varchar
+   id_typedoc : number
+}
+class Typedoc {
+   id_typedoc : number
+   typedoc : varchar
+}
+class Employee {
+   id : number
+   employee_name : string
+   position : string
+   e_login : string
+   e_pass : string
+}
+class BrandAuto {
+   id_auto : number
+   name_brandauto : varchar
+   
+}
+
+class Auto {
+   id_auto : number
+   number_auto : varchar
+   id_brand : varchar
+   id_ownerauto
+}
+class ParkingPlace {
+   id_place : number
+   number_place : number
+   id_autoparking : number
+   number_row : number
+   number_column : number
+   id_typeparkplace : number
+   this_parkingplace : bit
+}
+class TypeParkingPlace {
+   id_typeparkplace : number
+   typeparkplace : varchar
+   CoastForHour : real
+   Size : varchar
+}
+class AutoParkings {
+  id_autoparkings : number
+  name_autoparking : varchar
+  quantitystrings : integer
+  quantitycolumns : integer
+  adress : varchar
+}
+Parking --* AutoParkings
+Parking *-- ParkingPlace
+Parking *-- Auto
+Parking *-- Employee
+Employee --* Role
+Employee --* Position
+OwnerAuto --* Auto
+OwnerAuto --* Typedoc
+Auto --* BrandAuto
+ParkingPlace --* TypeParkingPlace
+@enduml
